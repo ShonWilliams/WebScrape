@@ -1,0 +1,28 @@
+prompt user for url
+    -save input as base-url
+
+
+
+
+display all elements on the page
+    - display all elements on page
+    - prompt user for which element and which class
+
+take user input for which elements and classes to scrape
+    -user input for find / find all searches
+
+figure out how many pages / when to stop
+    -user decides what type of info is relevant for their cause
+        -ex only names starting with A or a number greater than 1000
+
+
+
+
+display results or create csv
+
+allow user to name csv file
+
+
+
+After all this is completed, create a GUI Bot4U.com
+
